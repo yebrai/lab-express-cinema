@@ -1,6 +1,7 @@
 
 // llamar la data
 const movies = require("./movies.seed")
+const moviesModel = require('../models/Movie.model')
 
 
 // connect db
